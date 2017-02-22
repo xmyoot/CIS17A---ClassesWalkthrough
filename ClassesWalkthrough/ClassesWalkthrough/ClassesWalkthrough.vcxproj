@@ -112,9 +112,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\main.cpp" />
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Student.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Teacher.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Student.h" />
+    <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Teacher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

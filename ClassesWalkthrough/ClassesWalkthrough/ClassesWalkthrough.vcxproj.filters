@@ -21,9 +21,15 @@
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Teacher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\CIS-17A\CIS17A---ClassesWalkthrough\ClassesWalkthrough\ClassesWalkthrough\Teacher.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
